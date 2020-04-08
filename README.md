@@ -4,6 +4,11 @@
 ```
 npm install
 ```
+# Sass
+npm install -D sass-loader sass
+
+# Node-Sass
+npm install -D node-sass
 
 ### Compiles and hot-reloads for development
 ```
